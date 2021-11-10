@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Big P and Little P Crypto projects. 
+          I gotta grind for midterms 
         </p>
         <a>
           I developed this using react js and fleek
